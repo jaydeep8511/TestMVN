@@ -1,18 +1,16 @@
 package TestMaven1.TestMVN;
 
-
+import org.testng.annotations.Test;
 
 /**
  * Unit test for simple App.
  */
 
-public class AppTest 
-{
-	public static void main(String[] args) {
-		
-	
+public class AppTest {
+	@Test
+	public void sts() {
 
 		System.out.println("test app ...");
-	
+
 	}
 }
