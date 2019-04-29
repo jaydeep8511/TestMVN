@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestMaven1.TestMVN.AppTest" duration-ms="25" started-at="2019-04-29T10:39:18Z" finished-at="2019-04-29T10:39:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="25" started-at="2019-04-29T10:39:18Z" finished-at="2019-04-29T10:39:18Z">
+      <class name="TestMaven1.TestMVN.AppTest">
+        <test-method status="PASS" signature="sts()[pri:0, instance:TestMaven1.TestMVN.AppTest@203ea1]" name="sts" duration-ms="5" started-at="2019-04-29T10:39:18Z" finished-at="2019-04-29T10:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sts -->
+      </class> <!-- TestMaven1.TestMVN.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestMaven1.TestMVN.AppTest -->
+</testng-results>
